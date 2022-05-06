@@ -1,0 +1,13 @@
+Aleysha 03456789087 67500 Acer Laptop 
+Tariq 03456789087 20000 Tablet Gadget 
+Dhillon 0987654326 10500 Speaker Gadget 
+Imran 0098765436 5500 SWatch Gadget 
+Esha 0987654322 7000 Stove Gadget 
+Ali 0987654322 70500 Samsung Phone 
+Fatima 0987654322 45500 Vivo Phone 
+Amir 0987654322 45000 Lenovo Laptop 
+Farooq 0987654322 45000 Lenovo Laptop 
+Asim 0987654322 35000 Camera Gadget 
+Namra 0098765438 12500 Webcam Gadget 
+Khalid 0987654343 20000 Tablet Gadget 
+Ali 0567864333 205599 Iphone Phone 
